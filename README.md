@@ -1,3 +1,13 @@
+# ReelBroker
+
+> Projet réalisé en 36 h au **Datathon PolyFinances 2026** (78 équipes), en équipe de 4 avec Jonathan Dubois, Marc-Aurele Blanc et Laurent Corbeil.
+>
+> **Ma contribution :** le backend (moteur de calcul en Python et API FastAPI), le pipeline de 4 agents IA sur Amazon Bedrock et le début de l'interface React.
+>
+> Dépôt d'origine : [JonathanD-Dev/Reelbroker](https://github.com/JonathanD-Dev/Reelbroker). Cette copie conserve l'historique d'origine, ce qui explique que les commits soient au nom de mon coéquipier.
+
+ReelBroker propose des scénarios de portefeuille fictifs adaptés au profil d'un investisseur et explique chaque résultat, sans jamais recommander d'achat. Principe de base : **le code calcule, le modèle explique.**
+
 ## Ce que fait la solution
 
 ReelBroker propose des **scénarios de portefeuille fictifs** adaptés à un profil d'investisseur, et explique chaque résultat. Elle ne recommande aucun achat.
